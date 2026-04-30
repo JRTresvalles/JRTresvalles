@@ -31,5 +31,5 @@ I’m a creative developer and designer with over **4 years in graphic design** 
 ---
 
 ### 📫 Let’s Connect
-- 🌐 Portfolio: [jrtresvalles.github.io/JRTPortfolio](https://jrtresvalles.github.io/JRTPortfolio/)
+- 🌐 Portfolio: https://johntcreatives.site/
 - ✉️ Email: jhyar171@gmail.com
